@@ -1,20 +1,20 @@
 {
-  "name": "app-receipt-backend",
-  "version": "1.0.0",
-  "description": "Aplikasi Struk Iklan",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "Tiara Syah",
-  "license": "MIT",
-  "dependencies": {
-    "chalk": "^4.1.2",
-    "express": "^4.19.2",
-    "mongoose": "^8.5.1"
-  },
-  "devDependencies": {
-    "nodemon": "^3.1.4",
-    "prettier": "^3.3.3"
-  }
+    "name": "app-receipt-backend",
+    "version": "1.0.0",
+    "description": "Aplikasi Struk Iklan",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Tiara Syah",
+    "license": "MIT",
+    "dependencies": {
+        "chalk": "^4.1.2",
+        "express": "^4.19.2",
+        "mongoose": "^8.5.1"
+    },
+    "devDependencies": {
+        "nodemon": "^3.1.4",
+        "prettier": "^3.3.3"
+    }
 }
