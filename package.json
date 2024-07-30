@@ -4,7 +4,8 @@
     "description": "Aplikasi Struk Iklan",
     "main": "index.js",
     "scripts": {
-        "start": "nodemon app"
+        "start:development": "nodemon app",
+        "start": "node app"
     },
     "author": "Tiara Syah",
     "license": "MIT",
